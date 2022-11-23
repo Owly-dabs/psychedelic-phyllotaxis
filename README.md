@@ -28,14 +28,14 @@ The following variabes can be modified using the number slides in the Grasshoppe
 4. Conic Density -- determines the density of the lines forming the conic section.
 
 ## Design outcomes
-<img src="./pics/des_1.png" alt="drawing" width="300"/>
-<img src="./pics/des_2.jpg" alt="drawing" width="300"/>
-<img src="./pics/des_3.png" alt="drawing" width="300"/>
-<img src="./pics/des_4.png" alt="drawing" width="300"/>
-<img src="./pics/des_5.png" alt="drawing" width="300"/>
-<img src="./pics/des_6.png" alt="drawing" width="300"/>
-<img src="./pics/des_7.png" alt="drawing" width="300"/>
-<img src="./pics/des_8.png" alt="drawing" width="300"/>
+<img src="./pics/des_1.png" alt="drawing" width="500"/>
+<br><br><img src="./pics/des_2.jpg" alt="drawing" width="500"/>
+<br><br><img src="./pics/des_3.png" alt="drawing" width="500"/>
+<br><br><img src="./pics/des_4.png" alt="drawing" width="500"/>
+<br><br><img src="./pics/des_5.png" alt="drawing" width="500"/>
+<br><br><img src="./pics/des_6.png" alt="drawing" width="500"/>
+<br><br><img src="./pics/des_7.png" alt="drawing" width="500"/>
+<br><br><img src="./pics/des_8.png" alt="drawing" width="500"/>
 
 ## Design thinking process
 Using the phyllotactic spirals seen in nature as a source of inspiration, I created a circular spiral with an exponentially increasing radius with respect to the normalized time series.
